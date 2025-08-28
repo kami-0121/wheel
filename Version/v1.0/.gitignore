@@ -1,0 +1,4 @@
+out/
+make/
+*.nupkg
+*Setup.exe
